@@ -2,11 +2,6 @@ const modal = document.querySelector(".modal");
 const overlay = document.querySelector(".overlay");
 const openModalBtn = document.querySelector(".btn-open");
 
-// const openModal = function () {
-//   modal.classList.remove("hidden");
-//   overlay.classList.remove("hidden");
-// };
-
 const openModal = function () {
   modal.classList.remove("hidden");
   overlay.classList.remove("hidden");
